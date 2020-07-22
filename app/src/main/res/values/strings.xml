@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TopMovies</string>
+    <string name="token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiZTM5NzI5ODI1M2VjZTRjNGM1M2Y5OGYwMTZlNTFjYSIsInN1YiI6IjVmMTU0OTNiMzg1MjAyMDAzOWQwYzNjYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RPv7zg4Ewjl0nOgERSz12Ehdqb6QTHMwm9KGQi_OETQ</string>
+
+    <!-- errors -->
+    <string name="downloadingError">Downloading error</string>
+    <string name="displayingError">Problem with displaying view</string>
+    <string name="datePassed">Chosen date has been already passed</string>
+
+    <string name="movies">Movies</string>
+    <string name="scheduleViewing">Schedule viewing</string>
+    <string name="timeToWatch">It is time to watch a movie</string>
+    <string name="mainNotificationChannel">The main notification channel</string>
+</resources>
